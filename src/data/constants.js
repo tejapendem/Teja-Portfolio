@@ -333,7 +333,7 @@ export const projects = [
     description:
       "Project Dashboard is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: test@gmail.com #Password- 123, Employee Credentials:	#Email: test1@gmail.com	#Password- 123",
     image:
-      "https://private-user-images.githubusercontent.com/115733557/463624302-8409cb28-3cf7-4075-a3aa-c8a2cc978bfb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0NTM4NjQsIm5iZiI6MTc1MzQ1MzU2NCwicGF0aCI6Ii8xMTU3MzM1NTcvNDYzNjI0MzAyLTg0MDljYjI4LTNjZjctNDA3NS1hM2FhLWM4YTJjYzk3OGJmYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQxNDI2MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZjU3YTM2NTEzODQwODkwOGMwN2E2ZmJhZmI4ZGE4YWU3YWZkNTFjZWQ3MTkyMmIwMTMxMjEyNTNmZmVkZjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.De_50znH9aPGy1zvCQvgnhDAHZUGi6ohIm10A9krXzY",
+      "https://private-user-images.githubusercontent.com/115733557/463624302-8409cb28-3cf7-4075-a3aa-c8a2cc978bfb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3Nzk3MDgsIm5iZiI6MTc1Mzc3OTQwOCwicGF0aCI6Ii8xMTU3MzM1NTcvNDYzNjI0MzAyLTg0MDljYjI4LTNjZjctNDA3NS1hM2FhLWM4YTJjYzk3OGJmYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQwODU2NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZGM5NjY2OTYxMGI0NzAzZGViMjNjNDllNGNjODUxYzcxY2U3MjQ2ZmIxNTEyNjZmMTlhNGY3NmQ3Y2M1ZTgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1AMzrUWJ7Kk6A1ZK_xR6BX-mZh64evqa2CS9iK4x7eo",
     tags: [
       "React Js",
       "Django",
@@ -354,25 +354,11 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows HR to search the resumes, and get the shortlisted candidates using the screening system.they can also upload the resumes. \nAdmin Credentials: # Email: admin #Password- admin123",
     image:
-      "https://private-user-images.githubusercontent.com/115733557/469891961-1962d0c2-d28a-4294-93b4-286d068c695d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0NDg1NTAsIm5iZiI6MTc1MzQ0ODI1MCwicGF0aCI6Ii8xMTU3MzM1NTcvNDY5ODkxOTYxLTE5NjJkMGMyLWQyOGEtNDI5NC05M2I0LTI4NmQwNjhjNjk1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQxMjU3MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDczNDhlZTNhNmU4NzFlZjBiZTJmZTM5NmJmODY2ZWMwYWRiYWEzZTg4YmJhMjgwMjJmYTU1YzZlZTMzMDg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3B10Po97PX_xiyNH2z28r8zCTzLZjhdm8nwZHiNmlPQ",
+    "https://private-user-images.githubusercontent.com/115733557/469891961-1962d0c2-d28a-4294-93b4-286d068c695d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM3Nzk4MTQsIm5iZiI6MTc1Mzc3OTUxNCwicGF0aCI6Ii8xMTU3MzM1NTcvNDY5ODkxOTYxLTE5NjJkMGMyLWQyOGEtNDI5NC05M2I0LTI4NmQwNjhjNjk1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQwODU4MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMzZmRmYWQyYmI0YjEyYWFiODQ4NjMwNDM5ZmE0NzAwMTczMjRiYjVjMjIxNGFkMzQ4Njg5YWJkNzJiMWE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.k92QpqZWzIUgpKxzk9RivinFOPvPzOTZHw5L42PcmVQ",
     tags: ["AI", "React Js", "SQLite", "FastAPI", "PyMuPDF", "scikit-learn", "spaCy", "pdfminer", "transformers"],
     category: "machine learning",
     github: "https://github.com/tejapendem/resume-scoring-frontend",
     webapp: "https://resume-scoring-frontend.vercel.app/",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
   },
   // {
   //   id: 1,
