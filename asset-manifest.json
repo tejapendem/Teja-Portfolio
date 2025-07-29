@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Teja-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Teja-Portfolio/static/js/main.7a629274.js",
+    "static/media/HeroImage.jpg": "/Teja-Portfolio/static/media/HeroImage.3f7ba3d4c001e1caff41.jpg",
+    "index.html": "/Teja-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Teja-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.7a629274.js.map": "/Teja-Portfolio/static/js/main.7a629274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.7a629274.js"
+  ]
+}
